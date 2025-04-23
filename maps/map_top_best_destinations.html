@@ -25,7 +25,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_eadd1daeda2b1700c4d8c52e34a2ec3c {
+                #map_98a60fec46aa4a9d8752f60e2d8da6bb {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -39,14 +39,14 @@
 <body>
     
     
-            <div class="folium-map" id="map_eadd1daeda2b1700c4d8c52e34a2ec3c" ></div>
+            <div class="folium-map" id="map_98a60fec46aa4a9d8752f60e2d8da6bb" ></div>
         
 </body>
 <script>
     
     
-            var map_eadd1daeda2b1700c4d8c52e34a2ec3c = L.map(
-                "map_eadd1daeda2b1700c4d8c52e34a2ec3c",
+            var map_98a60fec46aa4a9d8752f60e2d8da6bb = L.map(
+                "map_98a60fec46aa4a9d8752f60e2d8da6bb",
                 {
                     center: [46.603354, 1.888334],
                     crs: L.CRS.EPSG3857,
@@ -63,7 +63,7 @@
 
         
     
-            var tile_layer_65ff149ee639259385c9063067862305 = L.tileLayer(
+            var tile_layer_9c0b73d57985a668fb983a20cb2a440e = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
   "minZoom": 0,
@@ -80,143 +80,177 @@
             );
         
     
-            tile_layer_65ff149ee639259385c9063067862305.addTo(map_eadd1daeda2b1700c4d8c52e34a2ec3c);
+            tile_layer_9c0b73d57985a668fb983a20cb2a440e.addTo(map_98a60fec46aa4a9d8752f60e2d8da6bb);
         
     
-            var marker_bb5139165644bfec8d11867f7e0ea18d = L.marker(
+            var marker_10b5bcdfe9fa4b2de7f7bfbb8ce1aa1f = L.marker(
+                [43.7496562, 6.3285616],
+                {
+}
+            ).addTo(map_98a60fec46aa4a9d8752f60e2d8da6bb);
+        
+    
+        var custom_icon_119f8b55a4a6f87c813d04a34b0a295a = L.icon({
+  "iconUrl": "https://images.icon-icons.com/3565/PNG/512/tree_flower_plant_nature_landscape_icon_225325.png",
+  "iconSize": [40, 40],
+});
+        marker_10b5bcdfe9fa4b2de7f7bfbb8ce1aa1f.setIcon(custom_icon_119f8b55a4a6f87c813d04a34b0a295a);
+        
+    
+        var popup_5f18f059e1366a4f0e377d1d4f699057 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_947051261cf7984ebccd901dbd6a9691 = $(`<div id="html_947051261cf7984ebccd901dbd6a9691" style="width: 100.0%; height: 100.0%;">Gorges du Verdon</div>`)[0];
+                popup_5f18f059e1366a4f0e377d1d4f699057.setContent(html_947051261cf7984ebccd901dbd6a9691);
+            
+        
+
+        marker_10b5bcdfe9fa4b2de7f7bfbb8ce1aa1f.bindPopup(popup_5f18f059e1366a4f0e377d1d4f699057)
+        ;
+
+        
+    
+    
+                marker_10b5bcdfe9fa4b2de7f7bfbb8ce1aa1f.setIcon(custom_icon_119f8b55a4a6f87c813d04a34b0a295a);
+            
+    
+            var marker_990fb3fce6b66636a90cc8c9f4c9b8f0 = L.marker(
                 [43.8374249, 4.3600687],
                 {
 }
-            ).addTo(map_eadd1daeda2b1700c4d8c52e34a2ec3c);
+            ).addTo(map_98a60fec46aa4a9d8752f60e2d8da6bb);
         
     
-        var custom_icon_ad5853b267e9ccf42383da3566c7ccda = L.icon({
+        var custom_icon_4555bb29b642fd523e4803407f28d0ba = L.icon({
   "iconUrl": "https://images.icon-icons.com/3565/PNG/512/tree_flower_plant_nature_landscape_icon_225325.png",
   "iconSize": [40, 40],
 });
-        marker_bb5139165644bfec8d11867f7e0ea18d.setIcon(custom_icon_ad5853b267e9ccf42383da3566c7ccda);
+        marker_990fb3fce6b66636a90cc8c9f4c9b8f0.setIcon(custom_icon_4555bb29b642fd523e4803407f28d0ba);
         
     
-        var popup_32159e406a32d3645d69d6874c3ca446 = L.popup({
+        var popup_78dfbd58058c0ebd7ff6a87e9ba400fe = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_539c38157e3ed5439e202565ebca0ad4 = $(`<div id="html_539c38157e3ed5439e202565ebca0ad4" style="width: 100.0%; height: 100.0%;">Nimes</div>`)[0];
-                popup_32159e406a32d3645d69d6874c3ca446.setContent(html_539c38157e3ed5439e202565ebca0ad4);
+                var html_efcd267c6c331bea7854247fd35bda47 = $(`<div id="html_efcd267c6c331bea7854247fd35bda47" style="width: 100.0%; height: 100.0%;">Nimes</div>`)[0];
+                popup_78dfbd58058c0ebd7ff6a87e9ba400fe.setContent(html_efcd267c6c331bea7854247fd35bda47);
             
         
 
-        marker_bb5139165644bfec8d11867f7e0ea18d.bindPopup(popup_32159e406a32d3645d69d6874c3ca446)
+        marker_990fb3fce6b66636a90cc8c9f4c9b8f0.bindPopup(popup_78dfbd58058c0ebd7ff6a87e9ba400fe)
         ;
 
         
     
     
-                marker_bb5139165644bfec8d11867f7e0ea18d.setIcon(custom_icon_ad5853b267e9ccf42383da3566c7ccda);
+                marker_990fb3fce6b66636a90cc8c9f4c9b8f0.setIcon(custom_icon_4555bb29b642fd523e4803407f28d0ba);
             
     
-            var marker_16ac9b15ce0f57c805df0713b597ba39 = L.marker(
-                [43.5658225, 4.1912837],
-                {
-}
-            ).addTo(map_eadd1daeda2b1700c4d8c52e34a2ec3c);
-        
-    
-        var custom_icon_6a8e6b8e7e78fcf287f8534448d3836a = L.icon({
-  "iconUrl": "https://images.icon-icons.com/3565/PNG/512/tree_flower_plant_nature_landscape_icon_225325.png",
-  "iconSize": [40, 40],
-});
-        marker_16ac9b15ce0f57c805df0713b597ba39.setIcon(custom_icon_6a8e6b8e7e78fcf287f8534448d3836a);
-        
-    
-        var popup_7264143a5a47df7caccee63a4ca63ba3 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_def24632b666b2efe802265293c83e77 = $(`<div id="html_def24632b666b2efe802265293c83e77" style="width: 100.0%; height: 100.0%;">Aigues Mortes</div>`)[0];
-                popup_7264143a5a47df7caccee63a4ca63ba3.setContent(html_def24632b666b2efe802265293c83e77);
-            
-        
-
-        marker_16ac9b15ce0f57c805df0713b597ba39.bindPopup(popup_7264143a5a47df7caccee63a4ca63ba3)
-        ;
-
-        
-    
-    
-                marker_16ac9b15ce0f57c805df0713b597ba39.setIcon(custom_icon_6a8e6b8e7e78fcf287f8534448d3836a);
-            
-    
-            var marker_5cfd22b7e2c6a20b1ab734b44cdc88aa = L.marker(
-                [43.1506968, 6.3419285],
-                {
-}
-            ).addTo(map_eadd1daeda2b1700c4d8c52e34a2ec3c);
-        
-    
-        var custom_icon_842aebef510ab8f46e4d3ba32efe2a0d = L.icon({
-  "iconUrl": "https://images.icon-icons.com/3565/PNG/512/tree_flower_plant_nature_landscape_icon_225325.png",
-  "iconSize": [40, 40],
-});
-        marker_5cfd22b7e2c6a20b1ab734b44cdc88aa.setIcon(custom_icon_842aebef510ab8f46e4d3ba32efe2a0d);
-        
-    
-        var popup_60e5e1583b1219af299916149fd2ce83 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_1dc2fb9414ee5f2fb6edd25f8100e5ed = $(`<div id="html_1dc2fb9414ee5f2fb6edd25f8100e5ed" style="width: 100.0%; height: 100.0%;">Bormes les Mimosas</div>`)[0];
-                popup_60e5e1583b1219af299916149fd2ce83.setContent(html_1dc2fb9414ee5f2fb6edd25f8100e5ed);
-            
-        
-
-        marker_5cfd22b7e2c6a20b1ab734b44cdc88aa.bindPopup(popup_60e5e1583b1219af299916149fd2ce83)
-        ;
-
-        
-    
-    
-                marker_5cfd22b7e2c6a20b1ab734b44cdc88aa.setIcon(custom_icon_842aebef510ab8f46e4d3ba32efe2a0d);
-            
-    
-            var marker_cae2ebeb061ad4522ac1b6f2737caccb = L.marker(
+            var marker_7477267d6f20a2ca9edcfdb1696ddfd3 = L.marker(
                 [43.2961743, 5.3699525],
                 {
 }
-            ).addTo(map_eadd1daeda2b1700c4d8c52e34a2ec3c);
+            ).addTo(map_98a60fec46aa4a9d8752f60e2d8da6bb);
         
     
-        var custom_icon_74770c4339dc39d8f9b258ac02a6b2a2 = L.icon({
+        var custom_icon_b171c23d4699d08adb41cc349a28d223 = L.icon({
   "iconUrl": "https://images.icon-icons.com/3565/PNG/512/tree_flower_plant_nature_landscape_icon_225325.png",
   "iconSize": [40, 40],
 });
-        marker_cae2ebeb061ad4522ac1b6f2737caccb.setIcon(custom_icon_74770c4339dc39d8f9b258ac02a6b2a2);
+        marker_7477267d6f20a2ca9edcfdb1696ddfd3.setIcon(custom_icon_b171c23d4699d08adb41cc349a28d223);
         
     
-        var popup_87a728d433aa79177e602dc5bb119f10 = L.popup({
+        var popup_f02113347b2ad31b8a113cb3cf591234 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_97367e1355bff675d1dfbefebccbdbe0 = $(`<div id="html_97367e1355bff675d1dfbefebccbdbe0" style="width: 100.0%; height: 100.0%;">Marseille</div>`)[0];
-                popup_87a728d433aa79177e602dc5bb119f10.setContent(html_97367e1355bff675d1dfbefebccbdbe0);
+                var html_ecc5d4418f922a6c67aa70fdcce6bb0a = $(`<div id="html_ecc5d4418f922a6c67aa70fdcce6bb0a" style="width: 100.0%; height: 100.0%;">Marseille</div>`)[0];
+                popup_f02113347b2ad31b8a113cb3cf591234.setContent(html_ecc5d4418f922a6c67aa70fdcce6bb0a);
             
         
 
-        marker_cae2ebeb061ad4522ac1b6f2737caccb.bindPopup(popup_87a728d433aa79177e602dc5bb119f10)
+        marker_7477267d6f20a2ca9edcfdb1696ddfd3.bindPopup(popup_f02113347b2ad31b8a113cb3cf591234)
         ;
 
         
     
     
-                marker_cae2ebeb061ad4522ac1b6f2737caccb.setIcon(custom_icon_74770c4339dc39d8f9b258ac02a6b2a2);
+                marker_7477267d6f20a2ca9edcfdb1696ddfd3.setIcon(custom_icon_b171c23d4699d08adb41cc349a28d223);
+            
+    
+            var marker_dd3273a562699230217d97d7cfb4abf5 = L.marker(
+                [43.9492493, 4.8059012],
+                {
+}
+            ).addTo(map_98a60fec46aa4a9d8752f60e2d8da6bb);
+        
+    
+        var custom_icon_35215fc86fdc37e9dbaac4d463513d71 = L.icon({
+  "iconUrl": "https://images.icon-icons.com/3565/PNG/512/tree_flower_plant_nature_landscape_icon_225325.png",
+  "iconSize": [40, 40],
+});
+        marker_dd3273a562699230217d97d7cfb4abf5.setIcon(custom_icon_35215fc86fdc37e9dbaac4d463513d71);
+        
+    
+        var popup_314eb6119f9045529d2f7eecd06c404b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dde239daf0656252abfd471eedc477de = $(`<div id="html_dde239daf0656252abfd471eedc477de" style="width: 100.0%; height: 100.0%;">Avignon</div>`)[0];
+                popup_314eb6119f9045529d2f7eecd06c404b.setContent(html_dde239daf0656252abfd471eedc477de);
+            
+        
+
+        marker_dd3273a562699230217d97d7cfb4abf5.bindPopup(popup_314eb6119f9045529d2f7eecd06c404b)
+        ;
+
+        
+    
+    
+                marker_dd3273a562699230217d97d7cfb4abf5.setIcon(custom_icon_35215fc86fdc37e9dbaac4d463513d71);
+            
+    
+            var marker_50df948d66492f626f5aef5fac36a197 = L.marker(
+                [43.2140359, 5.5396318],
+                {
+}
+            ).addTo(map_98a60fec46aa4a9d8752f60e2d8da6bb);
+        
+    
+        var custom_icon_4663e17c1bd3795a61a74c42cdfc02c9 = L.icon({
+  "iconUrl": "https://images.icon-icons.com/3565/PNG/512/tree_flower_plant_nature_landscape_icon_225325.png",
+  "iconSize": [40, 40],
+});
+        marker_50df948d66492f626f5aef5fac36a197.setIcon(custom_icon_4663e17c1bd3795a61a74c42cdfc02c9);
+        
+    
+        var popup_2dc9414eec52aab22f5630343c1fd378 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7a7d2d8a6455bbc99112be7305068fd2 = $(`<div id="html_7a7d2d8a6455bbc99112be7305068fd2" style="width: 100.0%; height: 100.0%;">Cassis</div>`)[0];
+                popup_2dc9414eec52aab22f5630343c1fd378.setContent(html_7a7d2d8a6455bbc99112be7305068fd2);
+            
+        
+
+        marker_50df948d66492f626f5aef5fac36a197.bindPopup(popup_2dc9414eec52aab22f5630343c1fd378)
+        ;
+
+        
+    
+    
+                marker_50df948d66492f626f5aef5fac36a197.setIcon(custom_icon_4663e17c1bd3795a61a74c42cdfc02c9);
             
 </script>
 </html>
