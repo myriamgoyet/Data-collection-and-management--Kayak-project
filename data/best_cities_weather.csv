@@ -1,0 +1,36 @@
+cities,name,country,state,lat,lon,date,temp,feels_like,uvi,humidity,wind_speed,description
+Mont Saint Michel,Mont Saint-Michel,FR,Normandy,48.6359541,-1.511459954959514,2025-04-23 10:39:55,12.99,12.64,3.26,88.0,9.01,broken clouds
+St Malo,Saint-Malo,FR,Brittany,48.649518,-2.0260409,2025-04-23 10:40:00,12.29,12.03,4.91,94.0,7.2,broken clouds
+Bayeux,Bayeux,FR,Normandy,49.2764624,-0.7024738,2025-04-23 10:40:00,14.14,13.93,4.51,89.0,4.76,broken clouds
+Le Havre,Le Havre,FR,Normandy,49.4938975,0.1079732,2025-04-23 10:40:01,12.51,12.27,4.5,94.0,6.69,broken clouds
+Rouen,Rouen,FR,Normandy,49.4404591,1.0939658,2025-04-23 10:40:01,11.52,10.97,4.53,86.0,6.17,broken clouds
+Paris,Paris,FR,Ile-de-France,48.8588897,2.3200410217200766,2025-04-23 10:40:01,11.32,10.91,4.52,92.0,5.66,light intensity drizzle
+Amiens,Amiens,FR,Hauts-de-France,49.8941708,2.2956951,2025-04-23 10:40:01,10.1,9.57,1.1,92.0,4.43,overcast clouds
+Lille,Lille,FR,Hauts-de-France,50.6365654,3.0635282,2025-04-23 10:40:01,9.37,6.07,0.82,71.0,7.2,light intensity drizzle
+Strasbourg,Strasbourg,FR,Grand Est,48.584614,7.7507127,2025-04-23 10:40:01,17.01,16.41,3.67,63.0,2.06,clear sky
+Chateau du Haut Koenigsbourg,Château du Haut-Kœnigsbourg,FR,Grand Est,48.2495226,7.3454923,2025-04-23 10:40:01,12.9,12.0,5.07,67.0,1.03,clear sky
+Colmar,Colmar,FR,Grand Est,48.0777517,7.3579641,2025-04-23 10:40:01,15.94,15.34,5.07,67.0,1.03,clear sky
+Eguisheim,Eguisheim,FR,Grand Est,48.0447968,7.3079618,2025-04-23 10:40:02,15.9,15.3,5.07,67.0,1.03,clear sky
+Besancon,Besançon,FR,Bourgogne-Franche-Comté,47.2380222,6.0243622,2025-04-23 10:40:02,14.13,13.56,3.53,75.0,5.3,overcast clouds
+Dijon,Dijon,FR,Bourgogne-Franche-Comté,47.3215806,5.0414701,2025-04-23 10:40:02,12.8,12.12,2.28,76.0,2.57,light rain
+Annecy,Annecy,FR,Auvergne-Rhône-Alpes,45.8992348,6.1288847,2025-04-23 10:40:02,15.08,14.29,5.29,63.0,4.63,broken clouds
+Grenoble,Grenoble,FR,Auvergne-Rhône-Alpes,45.1875602,5.7357819,2025-04-23 10:40:02,15.43,15.14,4.79,81.0,0.89,overcast clouds
+Lyon,Lyon,FR,Auvergne-Rhône-Alpes,45.7578137,4.8320114,2025-04-23 10:40:02,15.98,15.17,2.87,59.0,3.13,light rain
+Bormes les Mimosas,Bormes-les-Mimosas,FR,Provence-Alpes-Côte d'Azur,43.1506968,6.3419285,2025-04-23 10:40:02,18.55,18.05,6.34,61.0,6.17,clear sky
+Cassis,Cassis,FR,Provence-Alpes-Côte d'Azur,43.2140359,5.5396318,2025-04-23 10:40:02,19.58,18.9,6.29,50.0,9.08,clear sky
+Marseille,Marseille,FR,Provence-Alpes-Côte d'Azur,43.2961743,5.3699525,2025-04-23 10:40:02,19.75,19.09,6.19,50.0,7.2,clear sky
+Aix en Provence,Aix-en-Provence,FR,Provence-Alpes-Côte d'Azur,43.5298424,5.4474738,2025-04-23 10:40:03,18.01,16.91,5.81,40.0,6.22,clear sky
+Avignon,Avignon,FR,Provence-Alpes-Côte d'Azur,43.9492493,4.8059012,2025-04-23 10:40:03,19.67,19.02,6.14,51.0,6.17,clear sky
+Uzes,Uzès,FR,Occitania,44.0121279,4.4196718,2025-04-23 10:40:03,19.56,18.64,6.42,41.0,4.06,scattered clouds
+Nimes,Nimes,FR,Occitania,43.8374249,4.3600687,2025-04-23 10:40:03,20.22,19.26,6.22,37.0,4.63,clear sky
+Aigues Mortes,Aigues-Mortes,FR,Occitania,43.5658225,4.1912837,2025-04-23 10:40:03,19.77,18.85,6.22,40.0,7.72,clear sky
+Saintes Maries de la mer,Saintes-Maries-de-la-Mer,FR,Provence-Alpes-Côte d'Azur,43.4522771,4.4287172,2025-04-23 10:40:03,17.64,16.9,6.03,55.0,6.02,clear sky
+Collioure,Collioure,FR,Occitania,42.52505,3.0831554,2025-04-23 10:40:03,20.5,19.94,5.98,51.0,2.16,broken clouds
+Carcassonne,Carcassonne,FR,Occitania,43.2130358,2.3491069,2025-04-23 10:40:03,14.31,13.55,3.3,67.0,6.17,broken clouds
+Ariege,Tarascon-sur-Ariège,FR,Occitania,42.8458016,1.6067586,2025-04-23 10:40:03,15.44,14.5,5.98,56.0,2.56,broken clouds
+Toulouse,Toulouse,FR,Occitania,43.6044622,1.4442469,2025-04-23 10:40:03,13.97,13.3,0.52,72.0,4.63,broken clouds
+Montauban,Montauban,FR,Occitania,44.0175835,1.3549991,2025-04-23 10:40:04,13.17,12.55,0.34,77.0,3.62,overcast clouds
+Biarritz,Biarritz,FR,Nouvelle-Aquitaine,43.4832523,-1.5592776,2025-04-23 10:40:04,15.3,14.77,5.85,72.0,5.14,overcast clouds
+Bayonne,Bayonne,FR,Nouvelle-Aquitaine,43.4945144,-1.4736657,2025-04-23 10:40:04,15.42,14.9,4.0,72.0,5.14,overcast clouds
+La Rochelle,La Rochelle,FR,Nouvelle-Aquitaine,46.1591126,-1.1520434,2025-04-23 10:40:04,12.25,11.99,0.37,94.0,6.17,light rain
+Gorges du Verdon,,,,43.7496562,6.3285616,2025-04-23 10:40:04,19.98,19.42,6.38,53.0,3.53,clear sky

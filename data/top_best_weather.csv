@@ -1,0 +1,6 @@
+cities,name,country,state,lat,lon,date,temp,feels_like,uvi,humidity,wind_speed,description
+Gorges du Verdon,,,,43.7496562,6.3285616,2025-04-23 10:40:04,19.98,19.42,6.38,53.0,3.53,clear sky
+Nimes,Nimes,FR,Occitania,43.8374249,4.3600687,2025-04-23 10:40:03,20.22,19.26,6.22,37.0,4.63,clear sky
+Marseille,Marseille,FR,Provence-Alpes-Côte d'Azur,43.2961743,5.3699525,2025-04-23 10:40:02,19.75,19.09,6.19,50.0,7.2,clear sky
+Avignon,Avignon,FR,Provence-Alpes-Côte d'Azur,43.9492493,4.8059012,2025-04-23 10:40:03,19.67,19.02,6.14,51.0,6.17,clear sky
+Cassis,Cassis,FR,Provence-Alpes-Côte d'Azur,43.2140359,5.5396318,2025-04-23 10:40:02,19.58,18.9,6.29,50.0,9.08,clear sky
