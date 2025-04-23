@@ -1,6 +1,0 @@
-cities,name,country,state,lat,lon,date,temp,feels_like,uvi,humidity,wind_speed,description
-Aigues Mortes,Aigues-Mortes,FR,Occitania,43.5658225,4.1912837,2025-03-28 14:49:48,20.78,19.83,1.86,35.0,11.32,clear sky
-Nimes,Nimes,FR,Occitania,43.8374249,4.3600687,2025-03-28 14:49:48,20.22,19.39,1.86,42.0,4.12,clear sky
-Bormes les Mimosas,Bormes-les-Mimosas,FR,Provence-Alpes-Côte d'Azur,43.1506968,6.3419285,2025-03-28 14:49:47,19.42,18.33,1.6,35.0,6.17,clear sky
-Marseille,Marseille,FR,Provence-Alpes-Côte d'Azur,43.2961743,5.3699525,2025-03-28 14:49:47,18.64,17.53,1.76,37.0,9.26,clear sky
-Avignon,Avignon,FR,Provence-Alpes-Côte d'Azur,43.9492493,4.8059012,2025-03-28 14:49:48,18.05,17.11,1.83,46.0,9.77,clear sky
