@@ -4,16 +4,10 @@ from scrapy import Selector
 from scrapy.crawler import CrawlerProcess
 import logging
 import urllib.parse
+import pandas as pd
 
-
-
-best_cities_list=[
-    'Gorges du Verdon',
-    'Nimes',
-    'Marseille',
-    'Avignon',
-    'Cassis'
-]
+data=pd.read_csv('data/top_best_weather.csv')
+best_cities_list=data["cities"].to_list()
 
 class HotelSpider(scrapy.Spider):
     name = 'hotel_scraper'

@@ -1,6 +1,6 @@
 cities,name,country,state,lat,lon,date,temp,feels_like,uvi,humidity,wind_speed,description
-Gorges du Verdon,,,,43.7496562,6.3285616,2025-04-23 10:40:04,19.98,19.42,6.38,53.0,3.53,clear sky
-Nimes,Nimes,FR,Occitania,43.8374249,4.3600687,2025-04-23 10:40:03,20.22,19.26,6.22,37.0,4.63,clear sky
-Marseille,Marseille,FR,Provence-Alpes-Côte d'Azur,43.2961743,5.3699525,2025-04-23 10:40:02,19.75,19.09,6.19,50.0,7.2,clear sky
-Avignon,Avignon,FR,Provence-Alpes-Côte d'Azur,43.9492493,4.8059012,2025-04-23 10:40:03,19.67,19.02,6.14,51.0,6.17,clear sky
-Cassis,Cassis,FR,Provence-Alpes-Côte d'Azur,43.2140359,5.5396318,2025-04-23 10:40:02,19.58,18.9,6.29,50.0,9.08,clear sky
+Bormes les Mimosas,Bormes-les-Mimosas,FR,Provence-Alpes-Côte d'Azur,43.1506968,6.3419285,2025-04-23 18:58:24,17.22,16.43,0.0,55.0,6.69,clear sky
+Nimes,Nimes,FR,Occitania,43.8374249,4.3600687,2025-04-23 18:58:24,16.22,15.54,0.0,63.0,3.6,clear sky
+Marseille,Marseille,FR,Provence-Alpes-Côte d'Azur,43.2961743,5.3699525,2025-04-23 18:58:24,15.86,15.36,0.0,71.0,4.92,clear sky
+La Rochelle,La Rochelle,FR,Nouvelle-Aquitaine,46.1591126,-1.1520434,2025-04-23 18:58:26,12.94,12.46,0.0,83.0,8.75,clear sky
+Mont Saint Michel,Mont Saint-Michel,FR,Normandy,48.6359541,-1.511459954959514,2025-04-23 18:58:21,10.27,9.81,0.0,94.0,3.84,clear sky
