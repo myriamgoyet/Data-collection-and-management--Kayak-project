@@ -6,7 +6,7 @@ import logging
 import urllib.parse
 import pandas as pd
 
-data=pd.read_csv('data/top_best_weather.csv')
+data=pd.read_csv('data/top_best_cities_weather.csv')
 best_cities_list=data["cities"].to_list()
 
 class HotelSpider(scrapy.Spider):

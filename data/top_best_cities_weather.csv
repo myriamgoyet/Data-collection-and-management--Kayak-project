@@ -1,0 +1,6 @@
+cities,country,state,lat,lon,date,temp,feels_like,uvi,humidity,wind_speed,description
+Bormes les Mimosas,FR,Provence-Alpes-Côte d'Azur,43.1506968,6.3419285,2025-04-24 12:50:06,22.24,21.54,6.05,39.0,5.66,clear sky
+Aigues Mortes,FR,Occitania,43.5658225,4.1912837,2025-04-24 12:50:07,21.87,21.16,6.1,40.0,6.69,clear sky
+Nimes,FR,Occitania,43.8374249,4.3600687,2025-04-24 12:50:07,21.22,20.44,6.1,40.0,7.72,clear sky
+Marseille,FR,Provence-Alpes-Côte d'Azur,43.2961743,5.3699525,2025-04-24 12:50:06,20.3,19.27,6.03,34.0,13.89,clear sky
+Cassis,FR,Provence-Alpes-Côte d'Azur,43.2140359,5.5396318,2025-04-24 12:50:06,20.17,19.13,6.08,34.0,13.7,clear sky

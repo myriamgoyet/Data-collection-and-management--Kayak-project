@@ -1,6 +1,0 @@
-cities,name,country,state,lat,lon,date,temp,feels_like,uvi,humidity,wind_speed,description
-Bormes les Mimosas,Bormes-les-Mimosas,FR,Provence-Alpes-Côte d'Azur,43.1506968,6.3419285,2025-04-23 18:58:24,17.22,16.43,0.0,55.0,6.69,clear sky
-Nimes,Nimes,FR,Occitania,43.8374249,4.3600687,2025-04-23 18:58:24,16.22,15.54,0.0,63.0,3.6,clear sky
-Marseille,Marseille,FR,Provence-Alpes-Côte d'Azur,43.2961743,5.3699525,2025-04-23 18:58:24,15.86,15.36,0.0,71.0,4.92,clear sky
-La Rochelle,La Rochelle,FR,Nouvelle-Aquitaine,46.1591126,-1.1520434,2025-04-23 18:58:26,12.94,12.46,0.0,83.0,8.75,clear sky
-Mont Saint Michel,Mont Saint-Michel,FR,Normandy,48.6359541,-1.511459954959514,2025-04-23 18:58:21,10.27,9.81,0.0,94.0,3.84,clear sky
