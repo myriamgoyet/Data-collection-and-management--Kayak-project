@@ -18,13 +18,7 @@ Therefore, Kayak Marketing Team would like to create an application that will re
 
 The application should then be able to recommend the best destinations and hotels based on the above variables at any given time. 
 
-## To carry out this project: 🎯
-
-    scraped Booking.com to get hotels informations.
-    called openweathermap API to get weather informations.
-    stored all the informations into a csv file available in a S3 bucket.
-    transfered datas into a sql database for people to get access to it and be able to work with.
-
+## How I carried out this project : 🎯
 
 * I called APIs to get weather information for each destinations
 * I selected top best destinations regarding current weather
