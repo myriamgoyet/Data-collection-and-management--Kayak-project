@@ -1,7 +1,6 @@
 # Projet - Plan your trip with Kayak
 
 Project completed as part of my Data Science Fullstack training at Jedha (Paris). 
-Here are the project instructions :
 
 ## Project 🚧
 
