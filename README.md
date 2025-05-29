@@ -1,4 +1,4 @@
-# Projet - Plan your trip with Kayak
+# PROJER KAYAK - DATA COLLECTION TO RECOMMEND BEST TRAVEL DESTINATIONS & HOTELS
 
 Project completed as part of my Data Science Fullstack training at Jedha (Paris). 
 
